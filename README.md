@@ -100,7 +100,3 @@ Designed with KiCad 10.
 1. Solder the low-profile parts first (resistors, diodes), then caps, the IC socket, and finally the pots, jacks and LED.
 2. Wire the footswitch to the SW1 header following the bypass table above.
 3. Test with a 9V supply before closing the enclosure. The 4.5V bias node should read about 4.5V.
-
-## License
-
-Add a license of your choice here.
